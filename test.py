@@ -1,2 +1,1 @@
-print("Версія з гілки conflict")
-
+print("Це версія з conflict")
