@@ -1,1 +1,1 @@
-print("Версія з гілки feature")
+print("Це версія з feature")
